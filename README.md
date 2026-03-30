@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Zeelsh%20Sonagara&fontSize=55&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20%26%20Python%20Django&descAlignY=58&descSize=20&animation=fadeIn)
+
 
 <h1 align="center">Hey there 👋, you are browsing Zeelsh Sonagara's profile.</h1>
 <h3 align="center">🚀 Building scalable web apps, one commit at a time! 💻</h3>
@@ -31,8 +31,8 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,redux" /><br><br>
-    <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,postgresql,mysql,mongodb,sqlite" /><br><br>
-    <img src="https://skillicons.dev/icons?i=azure,docker,git,github,vscode,postman,figma,vite,vercel" />
+    <img src="https://skillicons.dev/icons?i=python,django" /><br><br>
+    <img src="https://skillicons.dev/icons?i=azure,git,github,vscode,postman,figma,vite,vercel" />
   </a>
 </p>
 
@@ -50,7 +50,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Zeelsh198&theme=tokyonight&hide_border=true" /><br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Zeelsh198&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
