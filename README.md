@@ -1,100 +1,56 @@
-<div align="center">
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Zeelsh%20Sonagara&fontSize=55&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20%26%20Python%20Django&descAlignY=58&descSize=20&animation=fadeIn)
 
+<h1 align="center">Hey there 👋, you are browsing Zeelsh Sonagara's profile.</h1>
+<h3 align="center">🚀 Building scalable web apps, one commit at a time! 💻</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Zeelsh+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;React+%2B+Python+Django+Enthusiast+%F0%9F%90%8D;Building+cool+stuff+one+bug+at+a+time+%F0%9F%90%9B)](https://git.io/typing-svg)
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Zeelsh198&color=blueviolet&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/Zeelsh198?style=flat-square&color=blueviolet)](https://github.com/Zeelsh198)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Zeelsh198&label=Profile%20views&color=6e40c9&style=plastic" alt="Zeelsh198" />
+</p>
 
-</div>
+- 👨‍💻 All of my projects are available at **[my GitHub](https://github.com/Zeelsh198)**
+- 📧 Contact me via **zeelsh820@gmail.com**
+- 📱 Reach me on **+91 9664838362**
+- 🌱 Currently learning **advanced React patterns, TypeScript & Next.js**
+- 🤝 Looking to collaborate on **open-source React & Django projects**
+- ⚡ Fun fact: **"A QA engineer walks into a bar. Orders 1 beer. Orders 0 beers. Orders 99999 beers. Orders -1 beers. Orders NULL beers. The first real customer walks in and asks where the bathroom is. The bar bursts into flames. 🔥"**
+- 😄 Pronouns: **He / Him**
 
----
+<br>
 
-### 👨‍💻 About Me
+<h3 align="left">🔗 Connect with me</h3>
+<p align="left">
+  <a href="https://github.com/Zeelsh198"><img src="https://img.shields.io/badge/_G_I_T_H_U_B-black?style=plastic&logo=github&logoColor=%23FAFA33" height="20px"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/zeelshsonagara820/"><img src="https://img.shields.io/badge/_L_I_N_K_E_D_I_N-black?style=plastic&logo=linkedin&logoColor=%23FAFA33" height="20px"/></a>&nbsp;
+  <a href="mailto:zeelsh820@gmail.com"><img src="https://img.shields.io/badge/_G_M_A_I_L-black?style=plastic&logo=gmail&logoColor=%23FAFA33" height="20px"/></a>&nbsp;
+  <a href="https://wa.me/919664838362"><img src="https://img.shields.io/badge/_W_H_A_T_S_A_P_P-black?style=plastic&logo=whatsapp&logoColor=%23FAFA33" height="20px"/></a>&nbsp;
+</p>
 
-- 🔭 &nbsp; All of my projects are available at my **[GitHub Portfolio](https://github.com/Zeelsh198)**
-- 🌱 &nbsp; Currently leveling up in **advanced React patterns, TypeScript & Next.js**
-- 🤝 &nbsp; Looking to collaborate on **open-source React projects and UI libraries**
-- ☁️ &nbsp; Exploring **Microsoft Azure** for cloud deployments
-- 😄 &nbsp; Pronouns: **He / Him**
-- ⚡ &nbsp; Fun fact: I'm a tech nerd who loves gaming, cars & working out — balance is key! 🎮🚗💪
+<h3 align="left">🛠️ Languages and Tools</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,redux" /><br><br>
+    <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,postgresql,mysql,mongodb,sqlite" /><br><br>
+    <img src="https://skillicons.dev/icons?i=azure,docker,git,github,vscode,postman,figma,vite,vercel" />
+  </a>
+</p>
 
-> 🤣 **Coding joke of the day:**
-> *A QA engineer walks into a bar. Orders 1 beer. Orders 0 beers. Orders 99999999 beers. Orders -1 beers. Orders a lizard. Orders NULL beers. Orders asdfjkl; beers. The first real customer walks in and asks where the bathroom is. The bar bursts into flames.* 🔥
+<h3 align="left">📈 Github Commit Stats</h3>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zeelsh198&theme=discord_old_blurple">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zeelsh198&theme=discord_old_blurple"><br>
+</p>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zeelsh198&theme=discord_old_blurple"><br><br>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="Zeelsh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Zeelsh198&title_color=7289da&bg_color=0a0f0b&color=f6f8fa&line=7289da&point=f6f8fa&hide_border=true" />
+  </a>
+</p>
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Zeelsh198&theme=tokyonight&hide_border=true" /><br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=Zeelsh198&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
 
-### 🌐 Connect with Me
-
-<div align="left">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeelshsonagara820/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zeelsh198)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeelsh820@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919664838362)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Zeelsh198)
-
-</div>
-
----
-
-### 🛠️ Languages & Tools
-
-#### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-
-#### ⚙️ Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
-
-
-#### ☁️ Cloud & DevOps
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-#### 🧰 Tools & Others
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-Python_Easter_Egg-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-
----
-
-### 🔥 GitHub Streak
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Zeelsh198&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-</div>
-
----
-
-### 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zeelsh198&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-    
-
-**Thanks for visiting! Drop a ⭐ if you like what you see 😄**
-
-</div>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
