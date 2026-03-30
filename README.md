@@ -1,6 +1,5 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Zeelsh%20Sonagara&fontSize=60&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20%26%20Python%20Django&descAlignY=58&descSize=20&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Zeelsh+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;React+%2B+Python+Django+Enthusiast+%F0%9F%90%8D;Building+cool+stuff+one+bug+at+a+time+%F0%9F%90%9B)](https://git.io/typing-svg)
 
@@ -76,15 +75,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Zeelsh198&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeelsh198&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
-
-</div>
 
 ---
 
